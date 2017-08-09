@@ -1,0 +1,15 @@
+{
+  "name": "candy-cms/service",
+  "description": "",
+  "authors": [
+    {
+      "name": "Candy CMS",
+      "email": "me@ngocnh.info"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Modules\\Service\\": ""
+    }
+  }
+}
